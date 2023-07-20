@@ -1,2 +1,2 @@
 # ComunicacionSerial
-Este el archivo en python para correr en la raspberry una vez que se conecte al arduino
+Este el archivo en python para correr en la raspberry una vez que se conecte al arduino para el sistema GrowTech
